@@ -1,10 +1,10 @@
 #  Geometry Guru 🧮
 
-> Geometriyaga oid asosiy shakllar yuzasini hisoblaydigan C# dasturi.
+>> Geometriyaga oid asosiy shakllar yuzasini hisoblaydigan C# dasturi.
 
-✨ Dastur nimalar qila oladi?
+>✨ Dastur nimalar qila oladi?
 
-Ushbu konsol ilovasi foydalanuvchiga quyidagilarni hisoblash imkonini beradi:
+*Ushbu konsol ilovasi foydalanuvchiga quyidagilarni hisoblash imkonini beradi*:
 
 №	Funksiya	Tavsifi
 1	Uchburchak yuzasi	Asos va balandlik orqali yuzani topadi
@@ -16,15 +16,15 @@ Ushbu konsol ilovasi foydalanuvchiga quyidagilarni hisoblash imkonini beradi:
 
 C#
 
-.NET Console Application
+>>.NET Console Application
 
-📌 Ishga tushirish
+>📌 Ishga tushirish
 
-Kodni .cs faylga joylang (Program.cs)
+* Kodni .cs faylga joylang (Program.cs)
 
 VS, VS Code yoki Rider orqali ishga tushiring.
 
-Konsolda menyudan kerakli bo‘limni tanlang.
+Konsolda menyudan kerakli bo‘limni tanlang *.
 
 🔍 Misol ko‘rinishi
 === Geometry Guru ===
@@ -41,14 +41,14 @@ Uchburchak yuzasi = 30
 
 Yana davom ettirasizmi? (ha/yoq): ha
 
-📎 Yo'l xaritasi (Kengaytirish uchun g‘oyalar)
+>>📎 Yo'l xaritasi (Kengaytirish uchun g‘oyalar)
 
-Kelajakda quyidagilar qo‘shilishi mumkin:
+>Kelajakda quyidagilar qo‘shilishi mumkin:
 
-Perimetr hisoblash
+* Perimetr hisoblash
 
-Uchburchak turlari aniqlash
+* Uchburchak turlari aniqlash
 
-3D shakllar (kub, shar, prizma)
+* 3D shakllar (kub, shar, prizma)
 
-Grafik ko‘rinishda shakl chiqazish (console art)
+* Grafik ko‘rinishda shakl chiqazish (console art)
