@@ -13,8 +13,11 @@
 4	Ikki tomondan uchinchi tomon oralig'ini topish	Uchburchakning uchinchi tomoni imkoniyatlar oraliğini chiqaradi
 5	Chiqish	Dasturdan chiqadi
 🛠 Texnologiya
+copy:c:\Users\i7TechStore\Desktop\guru\Geometry-gru\Gif.gif
 
 C#
+![alt text](Gif.gif)
+ 
 
 >>.NET Console Application
 
